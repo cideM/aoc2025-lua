@@ -10,12 +10,12 @@ For Fish shell.
 $ set day "d19"; fd -e lua -e txt --no-ignore | entr -c -s "lua $day/main.lua < $day/in.txt"
 ```
 
-## Progress (1/12)
+## Progress (2/12)
 
 |     | Janet  | Solution Comment                                                               |
 | --- | ------ | ------------------------------------------------------------------------------ |
 | 1   | :bell: | [Link](https://www.reddit.com/r/adventofcode/comments/1pb3y8p/comment/nrq6zlp) |
-| 2   | :zzz:  |                                                                                |
+| 2   | :bell: | [Link](https://www.reddit.com/r/adventofcode/comments/1pbzqcx/comment/nruy1ta) |
 | 3   | :zzz:  |                                                                                |
 | 4   | :zzz:  |                                                                                |
 | 5   | :zzz:  |                                                                                |

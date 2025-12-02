@@ -29,7 +29,7 @@
         {
           devShells.default = pkgs.mkShell {
             packages = with pkgs; [
-              lua
+              lua5_4_compat
               nixfmt
               jq
               lua-language-server

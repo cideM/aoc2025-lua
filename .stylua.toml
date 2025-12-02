@@ -1,4 +1,4 @@
 call_parentheses = "NoSingleTable"
-column_width = 100
+column_width = 70
 syntax = "Lua54"
 collapse_simple_statement = "Always"

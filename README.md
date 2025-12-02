@@ -1,7 +1,5 @@
 # Advent of Code 2025 in Lua :santa: :christmas_tree:
 
-This repository is incomplete, since I was trying to do 2025 in Janet. I'm only doing some days in Lua, either for fun or because I hit a roadblock in Janet.
-
 ## Quickstart
 
 For Fish shell.

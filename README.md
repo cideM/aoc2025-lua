@@ -8,13 +8,13 @@ For Fish shell.
 $ set day "d19"; fd -e lua -e txt --no-ignore | entr -c -s "lua $day/main.lua < $day/in.txt"
 ```
 
-## Progress (2/12)
+## Progress (3/12)
 
 |     | Janet  | Solution Comment                                                               |
 | --- | ------ | ------------------------------------------------------------------------------ |
 | 1   | :bell: | [Link](https://www.reddit.com/r/adventofcode/comments/1pb3y8p/comment/nrq6zlp) |
 | 2   | :bell: | [Link](https://www.reddit.com/r/adventofcode/comments/1pbzqcx/comment/nruy1ta) |
-| 3   | :zzz:  |                                                                                |
+| 3   | :bell: | [Link](https://www.reddit.com/r/adventofcode/comments/1pcvaj4/comment/ns1ih6l) |
 | 4   | :zzz:  |                                                                                |
 | 5   | :zzz:  |                                                                                |
 | 6   | :zzz:  |                                                                                |
@@ -24,18 +24,6 @@ $ set day "d19"; fd -e lua -e txt --no-ignore | entr -c -s "lua $day/main.lua < 
 | 10  | :zzz:  |                                                                                |
 | 11  | :zzz:  |                                                                                |
 | 12  | :zzz:  |                                                                                |
-| 13  | :zzz:  |                                                                                |
-| 14  | :zzz:  |                                                                                |
-| 16  | :zzz:  |                                                                                |
-| 17  | :zzz:  |                                                                                |
-| 18  | :zzz:  |                                                                                |
-| 19  | :zzz:  |                                                                                |
-| 20  | :zzz:  |                                                                                |
-| 21  | :zzz:  |                                                                                |
-| 22  | :zzz:  |                                                                                |
-| 23  | :zzz:  |                                                                                |
-| 24  | :zzz:  |                                                                                |
-| 25  | :zzz:  |                                                                                |
 
 ## Make Reddit Code Snippet
 

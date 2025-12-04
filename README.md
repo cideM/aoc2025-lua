@@ -8,14 +8,14 @@ For Fish shell.
 $ set day "d19"; fd -e lua -e txt --no-ignore | entr -c -s "lua $day/main.lua < $day/in.txt"
 ```
 
-## Progress (3/12)
+## Progress (4/12)
 
 |     | Janet  | Solution Comment                                                               |
 | --- | ------ | ------------------------------------------------------------------------------ |
 | 1   | :bell: | [Link](https://www.reddit.com/r/adventofcode/comments/1pb3y8p/comment/nrq6zlp) |
 | 2   | :bell: | [Link](https://www.reddit.com/r/adventofcode/comments/1pbzqcx/comment/nruy1ta) |
 | 3   | :bell: | [Link](https://www.reddit.com/r/adventofcode/comments/1pcvaj4/comment/ns1ih6l) |
-| 4   | :zzz:  |                                                                                |
+| 4   | :bell: | [Link](https://www.reddit.com/r/adventofcode/comments/1pdr8x6/comment/ns7nszx) |
 | 5   | :zzz:  |                                                                                |
 | 6   | :zzz:  |                                                                                |
 | 7   | :zzz:  |                                                                                |
